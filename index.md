@@ -1,3 +1,7 @@
+
+
+![alt text](https://github.com/gijunkim/gijunkim.github.io/blob/master/_layouts/KT.png)
+
 ## Hi, I am June Kim.
 
 I am a Computer Science Undergraduate at Cornell University with a strong passion in Machine Learning, Artificial Intelligence and Mobile Development (Android).
