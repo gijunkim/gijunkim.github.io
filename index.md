@@ -7,4 +7,4 @@ I am also a producer and a singer-songwriter. Check out my soundcloud and YouTub
 ### Contact
 
 You can reach me through my email: gk392@cornell.edu
-or via phone:(646) 701 3256
+or via phone: (646) 701 3256
